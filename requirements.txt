@@ -1,7 +1,5 @@
-fastapi
+tensorflow==2.15.0
 uvicorn
-tensorflow==2.20.0
-numpy
-scikit-learn
-joblib
-pydantic
+fastapi
+psycopg2-binary
+python-dotenv
