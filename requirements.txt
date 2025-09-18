@@ -1,10 +1,9 @@
-scikit-learn==1.6.1
-pandas==1.5.3
-numpy==1.24.4
-tensorflow==2.13.0
-kagglehub
+tensorflow==2.20.0
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
 matplotlib
 seaborn
 joblib
-fastapi
-uvicorn
