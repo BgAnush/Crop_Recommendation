@@ -57,3 +57,4 @@ def predict_crop(data: CropInput):
 
     # Return JSON response
     return {"recommendations": results}
+
